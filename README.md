@@ -12,7 +12,7 @@ A modded server for Stumble Guys
     - 😀 Free Emotes (Taunt & Specials)
     - 🏷️ Special Names (Colours & Size)
     - 🎮 Custom Games
-    - 🛍️ Custom Shop
+    - 🛍️ Custom Shop & Pass
 
 # Changelog
     - 📄 InGame Server Name
