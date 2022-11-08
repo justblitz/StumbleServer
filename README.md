@@ -12,3 +12,9 @@ A modded server for Stumble Guys
     - 😀 Free Emotes (Taunt & Specials)
     - 🏷️ Special Names (Colours & Size)
     - 🎮 Custom Games
+# Links
+
+| Official Api  | Unofficial/Modded Api |
+| ------------- | ------------- |
+| [🔴KitKa Backend Api](https://api.stumbleguys.com/)| [🟢stumblepriv.xyz Backend Api](http://server1.stumblepriv.xyz/)
+| [🟢KitKa Shared Backend Api](https://api.stumbleguys.com/shared/)| [🟢stumblepriv.xyz Shared Backend Api](http://server1.stumblepriv.xyz/shared/1/)
