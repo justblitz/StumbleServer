@@ -12,6 +12,11 @@ A modded server for Stumble Guys
     - 😀 Free Emotes (Taunt & Specials)
     - 🏷️ Special Names (Colours & Size)
     - 🎮 Custom Games
+
+# Changelog
+    - 📄 InGame Server Name
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039615952939130910/image.png" alt="Stumble Guys logo">
+
 # Links
 
 | Official Api  | Unofficial/Modded Api |
