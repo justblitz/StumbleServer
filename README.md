@@ -17,7 +17,11 @@ A modded server for Stumble Guys
 
 # Changelog
     - 📄 InGame Server Name
-<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039615952939130910/image.png" alt="Stumble Guys logo">
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039615952939130910/image.png" alt="InGame Name Server">
+
+    - 🏷️ Custom Name (Size & Color)
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039853613297696778/image_1.png" alt="Sizeable Name">
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039854230418227260/image_2.png" alt="Colored Name">
 
 # Links
 
