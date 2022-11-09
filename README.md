@@ -27,6 +27,9 @@ A modded server for Stumble Guys
     - 😀 Free Special Emotes
 <img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039856952106307714/image.png" alt="Free Special Emotes">
 
+    - 💎 Discord RPC
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1040015751081369661/image.png" alt="Discord RPC">
+
 # Links
 
 | Official Api  | Unofficial/Modded Api |
