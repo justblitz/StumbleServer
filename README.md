@@ -14,6 +14,7 @@ A modded server for Stumble Guys
     - 🏷️ Special Names (Colours & Size)
     - 🎮 Custom Games
     - 🛍️ Custom Shop & Pass
+    - 🎨 Custom Textures (Skins & Maps)
 
 # Changelog
     - 📄 InGame Server Name
