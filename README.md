@@ -3,6 +3,7 @@
 # <img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039630601529065472/Nuovo_progetto_2.png" alt="Stumble Guys logo" width="200" height="140">
 A modded server for Stumble Guys
 
+![use](https://skillicons.dev/icons?i=js,dotnet,discord)
 </div>
 <br>
 
