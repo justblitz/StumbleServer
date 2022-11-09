@@ -24,6 +24,8 @@ A modded server for Stumble Guys
 <img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039853613297696778/image_1.png" alt="Sizeable Name">
 <img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039854230418227260/image_2.png" alt="Colored Name">
 
+    - 😀 Free Special Emotes
+<img src="https://cdn.discordapp.com/attachments/1032016653204074577/1039856952106307714/image.png" alt="Free Special Emotes">
 # Links
 
 | Official Api  | Unofficial/Modded Api |
